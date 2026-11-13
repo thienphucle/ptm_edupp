@@ -1,0 +1,223 @@
+2026-11-13 10:10:08 | INFO     | --- Starting processing for User user_1 (codestream) ---
+2026-11-13 10:10:08 | INFO     | >> Phase 1: Extracting L0 Nodes...
+2026-11-13 10:10:14 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:10:19 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:10:24 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:10:28 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:10:33 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:10:38 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:10:43 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:10:47 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:10:52 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:10:56 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:01 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:05 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:10 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:14 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:19 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:23 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:28 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:31 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:36 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:40 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:45 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:48 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:11:53 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:11:56 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:01 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:06 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:11 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:14 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:19 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:22 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:27 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:31 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:36 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:41 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:46 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:49 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:12:54 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:12:58 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:07 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:12 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:16 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:21 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:24 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:29 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:33 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:38 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:41 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:46 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:50 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:13:55 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:13:58 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:14:07 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:12 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:14:16 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:21 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:14:24 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:29 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:14:33 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:38 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:14:42 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:47 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:14:52 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:14:57 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:15:00 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:15:05 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:15:09 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:15:14 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:15:19 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:15:24 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:15:27 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:15:27 | INFO     |    -> Extracted 36 L0 nodes.
+2026-11-13 10:15:27 | INFO     | >> Phase 2: Clustering & Synthesizing L1 Nodes...
+2026-11-13 10:16:10 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:11 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:15 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:16 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:20 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:22 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:26 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:27 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:31 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:32 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:36 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:37 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:41 | INFO     | [OpenAI] Text mode | model=gpt-4o
+2026-11-13 10:16:42 | INFO     | [OpenAI] Text response received.
+2026-11-13 10:16:42 | INFO     |    -> Generated 7 clusters for L0.
+2026-11-13 10:16:43 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:16:49 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:16:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:16:55 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:16:56 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:17:03 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:04 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:17:09 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:10 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:17:18 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:19 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:17:23 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:24 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 10:17:29 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:29 | INFO     |    -> Synthesized 7 L1 nodes.
+2026-11-13 10:17:29 | INFO     | >> Phase 3: Synthesizing Layer 2...
+2026-11-13 10:17:33 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:17:40 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:40 | INFO     |   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 10:17:40 | INFO     |   - Generated 3 dimensions for L2.
+2026-11-13 10:17:40 | INFO     |    -> Generated 3 Dimensions for L2.
+2026-11-13 10:17:40 | INFO     |     [Config] Using specific target m=4 for L2.
+2026-11-13 10:17:44 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:17:46 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:46 | INFO     |   - Dimension 'Error-Handling Routine' generated 4 clusters.
+2026-11-13 10:17:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:17:54 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:17:58 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:17:59 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:08 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:12 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:14 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:14 | INFO     |     [Config] Using specific target m=4 for L2.
+2026-11-13 10:18:18 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:19 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:19 | INFO     |   - Dimension 'Problem-Solving Routine' generated 3 clusters.
+2026-11-13 10:18:23 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:27 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:31 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:35 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:39 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:46 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:46 | INFO     |     [Config] Using specific target m=4 for L2.
+2026-11-13 10:18:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:51 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:18:51 | INFO     |   - Dimension 'Strategy Execution' generated 3 clusters.
+2026-11-13 10:18:55 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:18:59 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:07 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:11 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:14 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:14 | INFO     |    -> Synthesized 24 L2 nodes.
+2026-11-13 10:19:14 | INFO     | >> Phase 3: Synthesizing Layer 3...
+2026-11-13 10:19:18 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:23 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:23 | INFO     |   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 10:19:23 | INFO     |   - Generated 3 dimensions for L2.
+2026-11-13 10:19:23 | INFO     |    -> Generated 3 Dimensions for L3.
+2026-11-13 10:19:23 | INFO     |     [Config] Using specific target m=3 for L3.
+2026-11-13 10:19:27 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:29 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:29 | INFO     |   - Dimension 'Self-Checking Behavior' generated 3 clusters.
+2026-11-13 10:19:33 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:38 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:42 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:46 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:52 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:52 | INFO     |     [Config] Using specific target m=3 for L3.
+2026-11-13 10:19:56 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:19:59 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:19:59 | INFO     |   - Dimension 'Planning vs. Reactivity' generated 4 clusters.
+2026-11-13 10:20:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:06 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:10 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:14 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:18 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:22 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:26 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:29 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:29 | INFO     |     [Config] Using specific target m=3 for L3.
+2026-11-13 10:20:33 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:35 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:35 | INFO     |   - Dimension 'Persistence' generated 3 clusters.
+2026-11-13 10:20:39 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:42 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:46 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:48 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:52 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:20:57 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:20:57 | INFO     |    -> Synthesized 24 L3 nodes.
+2026-11-13 10:20:57 | INFO     | >> Phase 3: Synthesizing Layer 4...
+2026-11-13 10:21:01 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:06 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:06 | INFO     |   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 10:21:06 | INFO     |   - Generated 3 dimensions for L2.
+2026-11-13 10:21:06 | INFO     |    -> Generated 3 Dimensions for L4.
+2026-11-13 10:21:06 | INFO     |     [Config] Using specific target m=2 for L4.
+2026-11-13 10:21:10 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:12 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:12 | INFO     |   - Dimension 'Mastery vs. Performance Orientation' generated 3 clusters.
+2026-11-13 10:21:16 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:19 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:23 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:27 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:31 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:35 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:35 | INFO     |     [Config] Using specific target m=2 for L4.
+2026-11-13 10:21:39 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:41 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:41 | INFO     |   - Dimension 'Motivational Drivers' generated 3 clusters.
+2026-11-13 10:21:45 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:48 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:21:52 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:21:57 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:22:01 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:22:03 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:22:03 | INFO     |     [Config] Using specific target m=2 for L4.
+2026-11-13 10:22:07 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:22:10 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:22:10 | INFO     |   - Dimension 'Resilience Under Difficulty' generated 3 clusters.
+2026-11-13 10:22:14 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:22:18 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:22:22 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:22:25 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:22:29 | INFO     | [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 10:22:33 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 10:22:33 | INFO     |    -> Synthesized 25 L4 nodes.
+2026-11-13 10:22:33 | INFO     | --- Finished processing for User user_1 ---
+

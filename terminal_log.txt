@@ -1,0 +1,542 @@
+2026-11-13 11:15:11,620 - INFO - --- Starting processing for User user_10 (codestream) ---
+2026-11-13 11:15:11,621 - INFO - >> Phase 1: Extracting L0 Nodes...
+2026-11-13 11:15:16,999 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:15:22,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:15:22,118 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:15:27,119 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:15:31,667 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:15:31,784 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:15:36,785 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:15:40,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:15:40,890 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:15:45,890 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:15:50,713 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:15:50,830 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:15:55,841 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:00,874 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:00,875 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:16:05,876 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:11,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:11,062 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:16:16,063 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:20,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:20,451 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:16:25,452 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:29,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:29,972 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:16:34,973 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:40,248 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:40,249 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:16:45,250 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:49,395 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:49,397 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:16:54,398 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:16:58,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:16:59,073 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:17:04,074 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:17:08,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:17:08,291 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:17:13,292 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:17:17,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:17:17,558 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:17:22,559 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:17:27,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:17:28,079 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:17:33,079 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:17:38,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:17:38,124 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:17:43,125 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:17:47,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:17:47,422 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:17:52,423 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:17:56,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:17:56,337 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:01,338 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:05,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:05,983 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:10,984 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:14,740 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:14,856 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:19,857 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:23,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:23,994 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:28,995 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:33,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:33,302 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:38,303 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:42,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:42,207 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:47,208 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:50,840 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:50,956 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:18:55,957 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:18:59,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:18:59,425 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:19:04,426 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:19:11,542 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:19:11,543 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:19:16,544 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:19:20,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:19:20,336 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:19:25,337 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:19:29,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:19:29,322 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:19:34,323 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:19:37,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:19:37,866 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:19:37,866 - INFO -    -> Extracted 28 L0 nodes.
+2026-11-13 11:19:37,869 - INFO - >> Phase 2: Clustering & Synthesizing L1 Nodes...
+2026-11-13 11:19:52,869 - INFO - No device provided, using cpu
+2026-11-13 11:19:53,642 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-11-13 11:19:53,772 - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-11-13 11:19:54,775 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-13 11:19:55,180 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-13 11:19:55,675 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-11-13 11:19:55,676 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-13 11:20:25,085 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:20:26,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:26,673 - INFO - [OpenAI] Text response received.
+2026-11-13 11:20:30,675 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:20:31,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:31,626 - INFO - [OpenAI] Text response received.
+2026-11-13 11:20:35,627 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:20:36,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:36,498 - INFO - [OpenAI] Text response received.
+2026-11-13 11:20:40,500 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:20:41,174 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:41,338 - INFO - [OpenAI] Text response received.
+2026-11-13 11:20:45,339 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:20:45,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:46,098 - INFO - [OpenAI] Text response received.
+2026-11-13 11:20:50,099 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:20:50,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:51,032 - INFO - [OpenAI] Text response received.
+2026-11-13 11:20:51,037 - INFO -    -> Generated 6 clusters for L0.
+2026-11-13 11:20:52,038 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:20:57,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:20:57,356 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:20:58,357 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:21:02,941 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:03,103 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:04,104 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:21:10,498 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:10,657 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:11,658 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:21:15,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:16,142 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:17,143 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:21:22,129 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:22,245 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:23,247 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:21:27,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:27,791 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:27,792 - INFO -    -> Synthesized 7 L1 nodes.
+2026-11-13 11:21:27,804 - INFO - >> Phase 3: Synthesizing Layer 2...
+2026-11-13 11:21:31,806 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:21:36,327 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:36,444 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:36,444 - INFO -   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 11:21:36,445 - INFO -   - Generated 3 dimensions for L2.
+2026-11-13 11:21:36,445 - INFO -    -> Generated 3 Dimensions for L2.
+2026-11-13 11:21:36,445 - INFO -     [Config] Using specific target m=4 for L2.
+2026-11-13 11:21:40,446 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:21:42,055 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:42,210 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:42,211 - INFO -   - Dimension 'Error-Handling Routine' generated 4 clusters.
+2026-11-13 11:21:46,212 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:21:49,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:49,195 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:21:53,196 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:21:56,067 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:21:56,234 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:00,236 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:02,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:02,438 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:06,440 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:08,217 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:08,377 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:08,377 - INFO -     [Config] Using specific target m=4 for L2.
+2026-11-13 11:22:12,378 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:13,661 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:13,829 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:13,830 - INFO -   - Dimension 'Problem-Solving Routine' generated 4 clusters.
+2026-11-13 11:22:17,830 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:19,656 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:19,824 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:23,825 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:26,023 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:26,183 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:30,184 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:32,040 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:32,041 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:36,042 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:38,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:38,548 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:38,549 - INFO -     [Config] Using specific target m=4 for L2.
+2026-11-13 11:22:42,550 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:43,791 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:43,951 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:43,952 - INFO -   - Dimension 'Strategy Execution' generated 4 clusters.
+2026-11-13 11:22:47,953 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:50,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:50,430 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:22:54,431 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:22:56,062 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:22:56,234 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:00,235 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:02,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:02,782 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:06,783 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:08,807 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:08,966 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:08,967 - INFO -    -> Synthesized 19 L2 nodes.
+2026-11-13 11:23:08,969 - INFO - >> Phase 3: Synthesizing Layer 3...
+2026-11-13 11:23:12,969 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:16,780 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:16,898 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:16,899 - INFO -   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 11:23:16,899 - INFO -   - Generated 3 dimensions for L2.
+2026-11-13 11:23:16,900 - INFO -    -> Generated 3 Dimensions for L3.
+2026-11-13 11:23:16,900 - INFO -     [Config] Using specific target m=3 for L3.
+2026-11-13 11:23:20,901 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:22,536 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:22,701 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:22,702 - INFO -   - Dimension 'Self-Monitoring Behavior' generated 3 clusters.
+2026-11-13 11:23:26,702 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:29,193 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:29,356 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:33,357 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:35,524 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:35,681 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:39,682 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:42,229 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:42,395 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:42,395 - INFO -     [Config] Using specific target m=3 for L3.
+2026-11-13 11:23:46,396 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:48,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:48,562 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:23:48,563 - INFO -   - Dimension 'Planning vs. Reactivity' generated 3 clusters.
+2026-11-13 11:23:52,564 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:23:56,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:23:56,271 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:00,272 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:03,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:03,806 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:07,807 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:11,053 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:11,221 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:11,222 - INFO -     [Config] Using specific target m=3 for L3.
+2026-11-13 11:24:15,223 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:16,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:16,790 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:16,790 - INFO -   - Dimension 'Persistence and Attention Control' generated 3 clusters.
+2026-11-13 11:24:20,791 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:23,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:23,477 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:27,478 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:30,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:30,975 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:34,976 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:37,778 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:37,948 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:37,949 - INFO -    -> Synthesized 18 L3 nodes.
+2026-11-13 11:24:37,951 - INFO - >> Phase 3: Synthesizing Layer 4...
+2026-11-13 11:24:41,952 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:45,978 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:46,093 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:46,093 - INFO -   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 11:24:46,094 - INFO -   - Generated 3 dimensions for L2.
+2026-11-13 11:24:46,094 - INFO -    -> Generated 3 Dimensions for L4.
+2026-11-13 11:24:46,095 - INFO -     [Config] Using specific target m=2 for L4.
+2026-11-13 11:24:50,095 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:51,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:51,589 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:24:51,590 - INFO -   - Dimension 'Mastery vs. Performance Orientation' generated 2 clusters.
+2026-11-13 11:24:55,591 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:24:59,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:24:59,200 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:03,201 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:06,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:06,651 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:06,651 - INFO -     [Config] Using specific target m=2 for L4.
+2026-11-13 11:25:10,652 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:11,954 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:12,122 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:12,123 - INFO -   - Dimension 'Motivational Drivers' generated 2 clusters.
+2026-11-13 11:25:16,123 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:18,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:18,680 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:22,682 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:25,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:25,473 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:25,474 - INFO -     [Config] Using specific target m=2 for L4.
+2026-11-13 11:25:29,475 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:30,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:30,842 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:30,843 - INFO -   - Dimension 'Resilience Under Difficulty' generated 2 clusters.
+2026-11-13 11:25:34,843 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:36,953 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:37,114 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:41,115 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:25:43,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:43,602 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:43,603 - INFO -    -> Synthesized 12 L4 nodes.
+2026-11-13 11:25:43,605 - INFO - --- Finished processing for User user_10 ---
+
+2026-11-13 11:25:43,607 - INFO - --- Starting processing for User 1345 (upsc2m) ---
+2026-11-13 11:25:43,607 - INFO - >> Phase 1: Extracting L0 Nodes...
+2026-11-13 11:25:48,608 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:25:52,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:25:52,636 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:25:57,637 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:01,031 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:01,033 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:26:06,034 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:09,916 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:09,917 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:26:14,919 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:18,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:18,976 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:26:23,977 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:29,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:29,193 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:26:34,194 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:38,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:38,567 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:26:43,568 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:47,143 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:47,145 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:26:52,146 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:26:57,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:26:57,190 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:02,191 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:06,051 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:06,200 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:11,201 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:13,790 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:13,791 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:18,792 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:21,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:21,345 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:26,346 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:28,628 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:28,629 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:33,630 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:35,821 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:35,822 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:40,823 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:43,385 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:43,386 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:48,387 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:50,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:50,829 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:27:55,830 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:27:58,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:27:58,184 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:03,185 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:05,510 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:05,511 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:10,512 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:12,671 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:12,986 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:17,987 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:20,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:20,419 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:25,420 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:27,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:27,726 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:32,727 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:35,312 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:35,313 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:40,314 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:42,808 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:42,809 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:47,810 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:49,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:49,907 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:28:54,908 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:28:57,397 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:28:57,398 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:29:02,399 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:29:04,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:05,024 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:29:10,026 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:29:12,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:12,284 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:29:17,285 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:29:19,602 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:19,603 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:29:24,605 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:29:27,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:27,563 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:29:27,564 - INFO -    -> Extracted 28 L0 nodes.
+2026-11-13 11:29:27,566 - INFO - >> Phase 2: Clustering & Synthesizing L1 Nodes...
+2026-11-13 11:29:32,837 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:29:34,143 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:34,144 - INFO - [OpenAI] Text response received.
+2026-11-13 11:29:38,146 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:29:38,783 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:38,981 - INFO - [OpenAI] Text response received.
+2026-11-13 11:29:42,983 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:29:44,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:44,518 - INFO - [OpenAI] Text response received.
+2026-11-13 11:29:48,519 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:29:49,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:49,332 - INFO - [OpenAI] Text response received.
+2026-11-13 11:29:53,333 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:29:54,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:54,295 - INFO - [OpenAI] Text response received.
+2026-11-13 11:29:58,296 - INFO - [OpenAI] Text mode | model=gpt-4o
+2026-11-13 11:29:58,970 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:29:59,185 - INFO - [OpenAI] Text response received.
+2026-11-13 11:29:59,190 - INFO -    -> Generated 5 clusters for L0.
+2026-11-13 11:30:00,191 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:30:05,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:05,411 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:06,412 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:30:09,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:10,199 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:11,200 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:30:14,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:14,378 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:15,379 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:30:18,919 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:19,122 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:20,123 - INFO - [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 11:30:24,315 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:24,507 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:24,508 - INFO -    -> Synthesized 6 L1 nodes.
+2026-11-13 11:30:24,510 - INFO - >> Phase 3: Synthesizing Layer 2...
+2026-11-13 11:30:28,511 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:30:33,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:33,878 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:33,878 - INFO -   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 11:30:33,878 - INFO -   - Generated 3 dimensions for L2.
+2026-11-13 11:30:33,879 - INFO -    -> Generated 3 Dimensions for L2.
+2026-11-13 11:30:33,879 - INFO -     [Config] Using specific target m=4 for L2.
+2026-11-13 11:30:37,880 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:30:39,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:39,212 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:39,212 - INFO -   - Dimension 'Error-Handling Routine' generated 2 clusters.
+2026-11-13 11:30:43,213 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:30:44,757 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:44,953 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:48,954 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:30:50,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:50,769 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:50,769 - INFO -     [Config] Using specific target m=4 for L2.
+2026-11-13 11:30:54,770 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:30:56,223 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:30:56,424 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:30:56,424 - INFO -   - Dimension 'Problem-Solving Routine' generated 2 clusters.
+2026-11-13 11:31:00,425 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:02,528 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:02,732 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:06,732 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:08,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:08,604 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:08,605 - INFO -     [Config] Using specific target m=4 for L2.
+2026-11-13 11:31:12,606 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:14,050 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:14,254 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:14,254 - INFO -   - Dimension 'Strategy Execution' generated 2 clusters.
+2026-11-13 11:31:18,255 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:19,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:19,766 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:23,767 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:25,510 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:25,708 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:25,708 - INFO -    -> Synthesized 6 L2 nodes.
+2026-11-13 11:31:25,710 - INFO - >> Phase 3: Synthesizing Layer 3...
+2026-11-13 11:31:29,711 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:33,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:33,777 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:33,777 - INFO -   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 11:31:33,777 - INFO -   - Generated 3 dimensions for L2.
+2026-11-13 11:31:33,778 - INFO -    -> Generated 3 Dimensions for L3.
+2026-11-13 11:31:33,778 - INFO -     [Config] Using specific target m=3 for L3.
+2026-11-13 11:31:37,779 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:38,995 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:39,191 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:39,192 - INFO -   - Dimension 'Self-Monitoring Behavior' generated 3 clusters.
+2026-11-13 11:31:43,192 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:45,565 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:45,764 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:49,765 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:51,358 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:51,544 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:55,545 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:31:57,103 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:31:57,300 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:31:57,300 - INFO -     [Config] Using specific target m=3 for L3.
+2026-11-13 11:32:01,301 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:02,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:02,769 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:02,769 - INFO -   - Dimension 'Planning Strategy' generated 3 clusters.
+2026-11-13 11:32:06,770 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:08,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:08,440 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:12,440 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:14,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:14,280 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:18,281 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:19,806 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:19,999 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:19,999 - INFO -     [Config] Using specific target m=3 for L3.
+2026-11-13 11:32:24,000 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:25,829 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:26,029 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:26,030 - INFO -   - Dimension 'Attention Control' generated 3 clusters.
+2026-11-13 11:32:30,031 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:31,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:31,618 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:35,619 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:37,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:37,761 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:41,762 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:43,390 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:43,576 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:43,576 - INFO -    -> Synthesized 9 L3 nodes.
+2026-11-13 11:32:43,579 - INFO - >> Phase 3: Synthesizing Layer 4...
+2026-11-13 11:32:47,579 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:51,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:51,939 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:51,939 - INFO -   [LLM Parse] Successfully parsed hierarchical dimension object.
+2026-11-13 11:32:51,939 - INFO -   - Generated 3 dimensions for L2.
+2026-11-13 11:32:51,940 - INFO -    -> Generated 3 Dimensions for L4.
+2026-11-13 11:32:51,940 - INFO -     [Config] Using specific target m=2 for L4.
+2026-11-13 11:32:55,941 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:32:56,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:32:57,165 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:32:57,166 - INFO -   - Dimension 'Mastery vs. Performance Orientation' generated 2 clusters.
+2026-11-13 11:33:01,167 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:03,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:03,660 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:07,661 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:10,108 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:10,307 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:10,307 - INFO -     [Config] Using specific target m=2 for L4.
+2026-11-13 11:33:14,308 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:15,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:15,702 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:15,702 - INFO -   - Dimension 'Learning Motivation' generated 2 clusters.
+2026-11-13 11:33:19,703 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:21,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:21,926 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:25,927 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:28,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:28,617 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:28,617 - INFO -     [Config] Using specific target m=2 for L4.
+2026-11-13 11:33:32,618 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:33,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:33,976 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:33,976 - INFO -   - Dimension 'Resilience Under Difficulty' generated 2 clusters.
+2026-11-13 11:33:37,977 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:40,688 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:40,886 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:44,887 - INFO - [OpenAI] JSON mode | model=gpt-4o
+2026-11-13 11:33:46,919 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 11:33:47,113 - INFO - [OpenAI] JSON parsed successfully.
+2026-11-13 11:33:47,114 - INFO -    -> Synthesized 11 L4 nodes.
+2026-11-13 11:33:47,115 - INFO - --- Finished processing for User 1345 ---
+

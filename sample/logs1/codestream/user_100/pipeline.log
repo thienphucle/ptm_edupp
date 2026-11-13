@@ -1,0 +1,30 @@
+2026-11-11 11:46:57 | INFO     | --- Starting processing for User user_100 (codestream) ---
+2026-11-11 11:46:57 | INFO     | >> Phase 1: Extracting L0 Nodes...
+2026-11-11 11:47:02 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:05 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:10 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:13 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:18 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:21 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:26 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:29 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:34 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:37 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:42 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:45 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:47:53 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:47:58 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:02 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:48:07 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:11 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:48:16 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:18 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:48:23 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:26 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:48:31 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:35 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:48:40 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:42 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-11 11:48:47 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-11 11:48:51 | INFO     | [OpenAI] JSON parsed successfully.

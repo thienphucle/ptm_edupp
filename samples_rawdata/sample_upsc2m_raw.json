@@ -1,0 +1,172 @@
+[
+  {
+    "user_id": "1032",
+    "question_id": "1218",
+    "category": "history",
+    "question_snippet": "Consider the following statements:\n\n1. Lingayat movement in Karnataka was started by Basavanna.\n2. Lingayats believe in rebirth and perform funerary rites such as cremation.\n3. The major text of Lingayats is called Ginan.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_answer_key": 0,
+    "user_answer_key": "d",
+    "is_correct": false,
+    "time_taken_sec": 12,
+    "difficulty": 0.85
+  },
+  {
+    "user_id": "1032",
+    "question_id": "148",
+    "category": "polity",
+    "question_snippet": "Consider the following statements regarding 'Kihoto Hollohan vs Zachillhu case':\n\n1. The Tenth Schedule faced a constitutional challenge, which was resolved by the Supreme Court in the landmark case of 'Kihoto Hollohan'.\n2. The Supreme Court upheld that sweeping discretion is not available to the Speaker in deciding cases of disqualification of MLAs.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_answer_key": 0,
+    "user_answer_key": "c",
+    "is_correct": false,
+    "time_taken_sec": 34,
+    "difficulty": 0.68
+  },
+  {
+    "user_id": "1032",
+    "question_id": "1130",
+    "category": "geography",
+    "question_snippet": "Consider the following pairs:\nCropping Season - Crops\n\n1. Rabi - Wheat, Barley, Soyabean, Groundnut, Mustard\n2. Kharif - Rice, Maize, Jowar, Bajra, Tur, Moong, Urad, Cotton, Jute\n3. Zaid - Seasonal Fruits, Vegetables, Fodder Crops\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_answer_key": 2,
+    "user_answer_key": "d",
+    "is_correct": false,
+    "time_taken_sec": 20,
+    "difficulty": 0.83
+  },
+  {
+    "user_id": "1032",
+    "question_id": "20429",
+    "category": "current_affairs",
+    "question_snippet": "The 'Aapoorti' mobile app recently in news, has been launched by:",
+    "options": [
+      "Ministry of Consumer Affairs, Food and Public Distribution",
+      "Ministry of Coal",
+      "Ministry of Railways",
+      "Ministry of Agriculture & Farmers' Welfare"
+    ],
+    "correct_answer_key": 2,
+    "user_answer_key": "b",
+    "is_correct": false,
+    "time_taken_sec": 19,
+    "difficulty": 0.75
+  },
+  {
+    "user_id": "1032",
+    "question_id": "70529",
+    "category": "environment",
+    "question_snippet": "Consider the following statements regarding the biomedical waste management rules 2016:\n\n1. Biomedical waste is defined as human and animal anatomical waste, treatment apparatus like needles, syringes and other materials used in health care facilities in the process of treatment and research.\n2. Rules do not cover the vaccination camps, blood donation camps, and surgical camps.\n3. The State Government provides the land for setting up a common bio-medical waste treatment and disposal facility.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "3 only",
+      "2 and 3 only"
+    ],
+    "correct_answer_key": 1,
+    "user_answer_key": "b",
+    "is_correct": true,
+    "time_taken_sec": 34,
+    "difficulty": 0.22
+  },
+  {
+    "user_id": "1345",
+    "question_id": "27645",
+    "category": "current_affairs",
+    "question_snippet": "Consider the following statements:\n\nIndia and France have established an Indo-Pacific Trilateral Development Cooperation Fund for sustainable solutions in the region.\nRecently, the first edition of the Maritime Partnership Exercise was carried out between India, France, and the United Arab Emirates (UAE) in the Gulf of Oman.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 Only",
+      "2 Only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_answer_key": 2,
+    "user_answer_key": "c",
+    "is_correct": true,
+    "time_taken_sec": 21,
+    "difficulty": 0.41
+  },
+  {
+    "user_id": "1345",
+    "question_id": "435",
+    "category": "polity",
+    "question_snippet": "Accessible India Campaign is implemented by which of the following ministries?",
+    "options": [
+      "Ministry of Law and Justice",
+      "Ministry of Home Affairs",
+      "Ministry of Health and Family Welfare",
+      "Ministry of Social Justice and Empowerment"
+    ],
+    "correct_answer_key": 3,
+    "user_answer_key": "c",
+    "is_correct": false,
+    "time_taken_sec": 8,
+    "difficulty": 0.47
+  },
+  {
+    "user_id": "1345",
+    "question_id": "40106",
+    "category": "history",
+    "question_snippet": "Consider the following statements:\n\n1. Monuments of National importance are declared by the Archaeological Survey of India.\n2. Recently, a Group of temples at Ranipur Jharial in Odisha has been declared as a Monuments of National Importance.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_answer_key": 2,
+    "user_answer_key": "c",
+    "is_correct": true,
+    "time_taken_sec": 9,
+    "difficulty": 0.31
+  },
+  {
+    "user_id": "1345",
+    "question_id": "50267",
+    "category": "economy",
+    "question_snippet": "'Trade and Development Report' has been released by which of the following organisations?",
+    "options": [
+      "United Nations Conference on Trade and Development (UNCTAD)",
+      "World Economic Forum (WEF)",
+      "International Monetary Fund (IMF)",
+      "World Bank"
+    ],
+    "correct_answer_key": 0,
+    "user_answer_key": "b",
+    "is_correct": false,
+    "time_taken_sec": 11,
+    "difficulty": 0.28
+  },
+  {
+    "user_id": "1345",
+    "question_id": "60041",
+    "category": "geography",
+    "question_snippet": "Consider the following statements with respect to sea floor spreading hypothesis:\n\n1. This hypothesis was coined by Arthur Holmes.\n2. Rocks closer to the mid oceanic ridge have normal polarity and are the youngest.\n3. Ocean crust rocks are much younger than the continental rocks.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1,2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_answer_key": 1,
+    "user_answer_key": "c",
+    "is_correct": false,
+    "time_taken_sec": 22,
+    "difficulty": 0.64
+  }
+]

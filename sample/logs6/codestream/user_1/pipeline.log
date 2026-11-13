@@ -1,0 +1,124 @@
+2026-11-13 09:21:22 | INFO     | --- Starting processing for User user_1 (codestream) ---
+2026-11-13 09:21:22 | INFO     | >> Phase 1: Extracting L0 Nodes...
+2026-11-13 09:21:27 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:21:32 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:21:37 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:21:40 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:21:45 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:21:50 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:21:55 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:21:59 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:04 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:22:09 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:14 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:22:18 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:23 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:22:27 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:32 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:22:36 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:41 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:22:44 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:49 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:22:53 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:22:58 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:02 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:23:07 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:11 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:23:16 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:20 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:23:25 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:28 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:23:33 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:37 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:23:42 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:45 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:23:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:23:55 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:00 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:04 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:09 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:13 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:18 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:22 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:27 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:31 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:36 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:41 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:46 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:49 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:24:54 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:24:58 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:25:07 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:12 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:25:15 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:20 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:25:25 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:30 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:25:34 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:39 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:25:42 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:47 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:25:52 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:25:57 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:26:00 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:26:05 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:26:10 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:26:15 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:26:19 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:26:24 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:26:28 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:26:34 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:26:38 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:26:43 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:26:46 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:26:46 | INFO     |    -> Extracted 36 L0 nodes.
+2026-11-13 09:26:46 | INFO     | >> Phase 2: Clustering & Synthesizing L1 Nodes...
+2026-11-13 09:27:32 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:27:33 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:27:37 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:27:38 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:27:42 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:27:43 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:27:47 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:27:48 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:27:52 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:27:53 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:27:57 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:27:57 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:28:01 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:28:02 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:28:02 | INFO     |    -> Generated 7 clusters for L0.
+2026-11-13 09:28:05 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:28:10 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:28:10 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 0. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:28:10 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 0. 
+2026-11-13 09:28:13 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:28:23 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:28:23 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 1. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:28:23 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 1. 
+2026-11-13 09:28:26 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:28:33 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:28:33 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 2. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:28:33 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 2. 
+2026-11-13 09:28:36 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:28:42 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:28:42 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 3. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:28:42 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 3. 
+2026-11-13 09:28:45 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:28:52 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:28:52 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 4. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:28:52 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 4. 
+2026-11-13 09:28:55 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:28:59 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:28:59 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 5. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:28:59 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 5. 
+2026-11-13 09:29:02 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:29:09 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:29:09 | WARNING  |   [WARN] Skipping malformed item #0 from LLM for cluster 6. Expected dict, got <class 'str'>: patterns
+2026-11-13 09:29:09 | WARNING  |   [WARN] LLM returned no valid nodes for cluster 6. 
+2026-11-13 09:29:09 | INFO     |    -> Synthesized 0 L1 nodes.
+2026-11-13 09:29:09 | INFO     | >> Phase 3: Synthesizing Layer 2...
+2026-11-13 09:29:09 | WARNING  |    Layer 1 is empty. Cannot create Layer 2. Stopping.
+2026-11-13 09:29:09 | INFO     | --- Finished processing for User user_1 ---
+

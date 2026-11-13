@@ -1,0 +1,89 @@
+2026-11-13 09:00:16 | INFO     | --- Starting processing for User 1032 (upsc2m) ---
+2026-11-13 09:00:16 | INFO     | >> Phase 1: Extracting L0 Nodes...
+2026-11-13 09:00:21 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:00:24 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:00:29 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:00:33 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:00:38 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:00:41 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:00:46 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:00:49 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:00:54 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:00:56 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:01 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:05 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:10 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:13 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:18 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:21 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:26 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:29 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:34 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:37 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:42 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:45 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:01:53 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:01:58 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:01 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:06 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:09 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:14 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:17 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:22 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:26 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:31 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:34 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:39 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:42 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:47 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:50 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:02:55 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:02:58 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:03 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:03:08 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:13 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:03:17 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:22 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:03:25 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:30 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:03:34 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:39 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:03:43 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:48 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:03:52 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:03:57 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:01 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:06 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:11 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:16 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:19 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:24 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:28 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:33 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:37 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:42 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:45 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:50 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:04:54 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:04:59 | INFO     | [OpenAI] JSON mode | model=gpt-4o-mini
+2026-11-13 09:05:03 | INFO     | [OpenAI] JSON parsed successfully.
+2026-11-13 09:05:03 | INFO     |    -> Extracted 34 L0 nodes.
+2026-11-13 09:05:03 | INFO     | >> Phase 2: Clustering & Synthesizing L1 Nodes...
+2026-11-13 09:05:08 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:05:10 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:05:14 | INFO     | [OpenAI] Text mode | model=gpt-4o-mini
+2026-11-13 09:05:15 | INFO     | [OpenAI] Text response received.
+2026-11-13 09:05:15 | INFO     |    -> Generated 1 clusters for L0.
+2026-11-13 09:05:15 | ERROR    | Crash pipeline at User 1032: create_nodes_from_cluster() got an unexpected keyword argument 'cluster_topic'
+Traceback (most recent call last):
+  File "D:\msTaiwan\ptm_eduplannerplus\src\ptm\util\test.py", line 207, in main
+    process_single_user(dataset_name, user_id, records, user_output_dir)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\msTaiwan\ptm_eduplannerplus\src\ptm\util\test.py", line 91, in process_single_user
+    nodes = graph_ops.create_nodes_from_cluster(
+        instances=cluster_instances,
+    ...<3 lines>...
+        cluster_topic=cluster_topic
+    )
+TypeError: create_nodes_from_cluster() got an unexpected keyword argument 'cluster_topic'

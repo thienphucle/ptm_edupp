@@ -1,0 +1,232 @@
+{
+  "prob_001": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Character to Digit Mapping",
+    "core_challenge": "Convert each alphabet to its cyclic digit position while preserving spaces in a string up to 10 million characters."
+  },
+  "prob_002": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Palindrome Permutation Check",
+    "core_challenge": "Determine if a string can be rearranged into a palindrome considering spaces and character frequencies."
+  },
+  "prob_003": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Recursive String Construction",
+    "core_challenge": "Extract substring of length m from an infinitely mirrored string starting at position n."
+  },
+  "prob_004": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Substring Replacement",
+    "core_challenge": "Replace all occurrences of a given substring with another in a case-sensitive manner."
+  },
+  "prob_005": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Subsequence Extraction",
+    "core_challenge": "Determine if A is a subsequence of S and output S excluding characters used in A."
+  },
+  "prob_006": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Maximum Spanning Tree",
+    "core_challenge": "Connect N cities using N-1 roads to maximize total vehicles passing simultaneously."
+  },
+  "prob_007": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Dijkstra on Grid",
+    "core_challenge": "Compute minimum time and path for robot from start to end on a grid with entry costs."
+  },
+  "prob_008": {
+    "paradigm": "Greedy Algorithms",
+    "specific_technique": "Interval Scheduling Maximization",
+    "core_challenge": "Select maximum non-overlapping programs from a weekly schedule based on start and end times."
+  },
+  "prob_009": {
+    "paradigm": "Dynamic Programming",
+    "specific_technique": "Longest Palindromic Subsequence",
+    "core_challenge": "Determine minimum deletions to transform string into a palindrome by finding longest palindromic subsequence."
+  },
+  "prob_010": {
+    "paradigm": "Dynamic Programming",
+    "specific_technique": "0/1 Knapsack Problem",
+    "core_challenge": "Select treasures to maximize value without exceeding weight limit W using 0/1 selection."
+  },
+  "prob_011": {
+    "paradigm": "Graph Traversal",
+    "specific_technique": "Greedy Steepest-Ascent Hill Climbing",
+    "core_challenge": "Simulate climbing to the highest reachable hold and determine if it's the global maximum."
+  },
+  "prob_012": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Singly Linked List Operations",
+    "core_challenge": "Efficiently insert integers at head or tail of a linked list for up to 10^6 operations."
+  },
+  "prob_013": {
+    "paradigm": "Expression Evaluation",
+    "specific_technique": "Postfix Expression Evaluation",
+    "core_challenge": "Evaluate postfix expression with custom unary operators and handle division by zero by adjusting divisor."
+  },
+  "prob_014": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Stack with Linked List",
+    "core_challenge": "Determine if a string is a palindrome using a stack implemented with a linked list."
+  },
+  "prob_015": {
+    "paradigm": "Bit Manipulation",
+    "specific_technique": "XOR for Unique Element",
+    "core_challenge": "Identify the single non-paired integer among 15 integers using efficient computation."
+  },
+  "prob_016": {
+    "paradigm": "Number Theory",
+    "specific_technique": "Binary Conversion",
+    "core_challenge": "Convert a 32-bit integer to binary and remove leading zeros."
+  },
+  "prob_017": {
+    "paradigm": "Sorting",
+    "specific_technique": "Custom Multi-Criteria Sort",
+    "core_challenge": "Sort integers by 2nd last digit, binary 1's count, and value in descending order."
+  },
+  "prob_018": {
+    "paradigm": "Array Analysis",
+    "specific_technique": "Check Sorted Order",
+    "core_challenge": "Determine if a list of integers is sorted in ascending or descending order, or not sorted."
+  },
+  "prob_019": {
+    "paradigm": "Search Algorithms",
+    "specific_technique": "Binary Search",
+    "core_challenge": "Determine if each of m integers exists in a sorted list of n integers efficiently."
+  },
+  "prob_020": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Dynamic Median Maintenance",
+    "core_challenge": "Efficiently maintain and find the median of a dynamic list with odd number of integers."
+  },
+  "prob_021": {
+    "paradigm": "Number Manipulation",
+    "specific_technique": "Manual Rounding Operations",
+    "core_challenge": "Implement rounding operations without math libraries and handle ties by rounding up."
+  },
+  "prob_022": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Number to Words Conversion",
+    "core_challenge": "Convert an integer (1 to 9999) into its English word representation, handling singular and plural forms."
+  },
+  "prob_025": {
+    "paradigm": "Mathematical Computation",
+    "specific_technique": "Piecewise Tax Calculation",
+    "core_challenge": "Calculate annual taxable income and tax using specific exemptions and progressive tax slabs."
+  },
+  "prob_028": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Extract Digits from String",
+    "core_challenge": "Extract and concatenate all digits from a given alphanumeric string."
+  },
+  "prob_029": {
+    "paradigm": "Sorting",
+    "specific_technique": "Stable Sort with Index Tracking",
+    "core_challenge": "Sort students by height and return the roll number at the Kth position, resolving ties by roll number."
+  },
+  "prob_030": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Singly Linked List Operations",
+    "core_challenge": "Efficiently insert integers at head or tail of a linked list for up to 10^6 operations."
+  },
+  "prob_031": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Max-Heap with Decrement",
+    "core_challenge": "Insert integers into a collection, decrement the maximum by k after each insertion, and sort the final collection."
+  },
+  "prob_032": {
+    "paradigm": "Tree Traversal",
+    "specific_technique": "Dual Inorder Traversal",
+    "core_challenge": "Merge two BSTs into a sorted sequence using O(h₁ + h₂) space without storing elements."
+  },
+  "prob_033": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Nested Binary Search Trees",
+    "core_challenge": "Organize values into a primary BST by hash and secondary BSTs by original values, then perform nested inorder traversals."
+  },
+  "prob_034": {
+    "paradigm": "Geometry",
+    "specific_technique": "Distance Comparison with Circle",
+    "core_challenge": "Determine point's position relative to circle using squared distance comparison with radius squared."
+  },
+  "prob_035": {
+    "paradigm": "Mathematical Computation",
+    "specific_technique": "BMI Calculation and Categorization",
+    "core_challenge": "Compute BMI from weight and height, categorize into health groups, and format output precisely."
+  },
+  "prob_036": {
+    "paradigm": "Geometry",
+    "specific_technique": "Triangle Inequality Theorem",
+    "core_challenge": "Determine triangle validity and classify as Equilateral, Isosceles, or Scalene based on side lengths."
+  },
+  "prob_037": {
+    "paradigm": "Date and Time Calculation",
+    "specific_technique": "Timestamp Difference Calculation",
+    "core_challenge": "Compute the exact time difference between two timestamps within the same year in days, hours, minutes, and seconds."
+  },
+  "prob_038": {
+    "paradigm": "String Manipulation",
+    "specific_technique": "Character Case Toggling",
+    "core_challenge": "Toggle the case of a single alphabetic character input."
+  },
+  "prob_039": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Breadth-First Search",
+    "core_challenge": "Determine reachable nodes and shortest path from node X in a directed unweighted graph."
+  },
+  "prob_040": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Tarjan's or Kosaraju's Algorithm",
+    "core_challenge": "Identify all strongly connected components in a directed graph with up to 500 nodes and 5000 edges."
+  },
+  "prob_041": {
+    "paradigm": "Search Algorithms",
+    "specific_technique": "Binary Search",
+    "core_challenge": "Determine if each of m integers exists in a sorted list of n integers efficiently."
+  },
+  "prob_042": {
+    "paradigm": "Bit Manipulation",
+    "specific_technique": "XOR for Unique Element",
+    "core_challenge": "Identify the single non-paired integer among 15 integers using efficient bitwise operations."
+  },
+  "prob_043": {
+    "paradigm": "Data Structures",
+    "specific_technique": "Dynamic Median Maintenance",
+    "core_challenge": "Efficiently maintain and find the median of a dynamic list with odd number of integers."
+  },
+  "prob_044": {
+    "paradigm": "Number Theory",
+    "specific_technique": "Binary Conversion",
+    "core_challenge": "Convert a 32-bit integer to binary and remove leading zeros."
+  },
+  "prob_045": {
+    "paradigm": "Array Analysis",
+    "specific_technique": "Check Sorted Order",
+    "core_challenge": "Determine if a list of integers is sorted in ascending or descending order."
+  },
+  "prob_046": {
+    "paradigm": "Sorting",
+    "specific_technique": "Custom Comparator Sorting",
+    "core_challenge": "Sort integers by second last digit, binary 1's count, and value in descending order."
+  },
+  "prob_047": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Minimum Vertex Cut",
+    "core_challenge": "Determine the smallest set of cities to remove to disconnect the graph."
+  },
+  "prob_048": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Breadth-First Search",
+    "core_challenge": "Determine the number of cities reachable from a starting city with limited fuel units."
+  },
+  "prob_049": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Minimum Cost Strongly Connected Components",
+    "core_challenge": "Determine minimum cost to redirect roads to make the directed graph strongly connected."
+  },
+  "prob_050": {
+    "paradigm": "Graph Theory",
+    "specific_technique": "Tarjan's Algorithm for SCC",
+    "core_challenge": "Identify SCCs in a directed graph and construct a DAG of these components."
+  }
+}

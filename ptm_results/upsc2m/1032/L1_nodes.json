@@ -1,0 +1,100 @@
+[
+  {
+    "node_id": "L1_1032_0",
+    "user_id": "1032",
+    "layer": 1,
+    "title": "Mixed Knowledge in Environmental Topics",
+    "content": "The user demonstrates a mixed understanding of environmental topics, as evidenced by their performance on various questions. They correctly answered questions related to biomedical waste management, aquatic ecosystems, and the Convention on Biological Diversity, indicating a solid grasp of these subjects. However, they also struggled with questions about cropping seasons and ecosystems, providing incorrect answers. This pattern suggests that while the user has strengths in certain areas of environmental knowledge, there are significant gaps in their understanding of other related topics.",
+    "source_instances": [
+      "U1032_Q1130",
+      "U1032_Q70529",
+      "U1032_Q70068",
+      "U1032_Q70072",
+      "U1032_Q20201"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1032_1",
+    "user_id": "1032",
+    "layer": 1,
+    "title": "Knowledge Gaps in Polity and History",
+    "content": "The user exhibits a recurring pattern of misunderstanding key concepts in both polity and history subjects. This is evident from multiple instances where the user incorrectly answers questions by selecting options that include more statements than are accurate. For example, the user often believes multiple statements about significant cases or movements to be true, indicating a lack of clarity on the specific details. This pattern suggests that the user may benefit from targeted study or review of these topics to bridge their knowledge gaps.",
+    "source_instances": [
+      "U1032_Q1218",
+      "U1032_Q148",
+      "U1032_Q369",
+      "U1032_Q10116",
+      "U1032_Q646"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1032_2",
+    "user_id": "1032",
+    "layer": 1,
+    "title": "Current Affairs Knowledge Gaps",
+    "content": "The user demonstrates a recurring pattern of struggling with questions related to current affairs, indicating a significant knowledge gap in this area. The user frequently selects incorrect answers for various topics, including government initiatives, technology, and legislation. This suggests that the user may not be adequately informed about recent developments or may have misconceptions about the subjects being tested. The consistent nature of these incorrect responses highlights a need for further study or engagement with current affairs to improve understanding and accuracy.",
+    "source_instances": [
+      "U1032_Q20429",
+      "U1032_Q20139",
+      "U1032_Q20104",
+      "U1032_Q20256",
+      "U1032_Q582"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1032_3",
+    "user_id": "1032",
+    "layer": 1,
+    "title": "Mixed Success in Current Affairs and Economy",
+    "content": "The user demonstrates a pattern of engaging with questions related to current affairs and the economy, showing a mix of correct and incorrect responses. They successfully answered questions about blockchain, the automobile market, and consumer spending surveys, indicating a solid understanding of these topics. However, they also encountered difficulties with questions on interest growth rate differentials and the National Land Monetization Corporation, suggesting areas where their knowledge may be lacking. This pattern reflects an active effort to master concepts in these fields, with varying levels of success.",
+    "source_instances": [
+      "U1032_Q20168",
+      "U1032_Q50434",
+      "U1032_Q50350",
+      "U1032_Q50370",
+      "U1032_Q20114",
+      "U1032_Q764"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1032_4",
+    "user_id": "1032",
+    "layer": 1,
+    "title": "Science and History Knowledge Mastery",
+    "content": "The user demonstrates a strong understanding of various scientific concepts and historical facts, as evidenced by their ability to correctly answer multiple questions across these subjects. They consistently select the correct options, indicating a solid grasp of the material. While there is one instance of an incorrect answer regarding the HS200 Solid Rocket Booster, the overall trend shows that the user is actively engaging with and mastering the content in both science and history. This pattern reflects a commitment to learning and a growing expertise in these areas.",
+    "source_instances": [
+      "U1032_Q1474",
+      "U1032_Q1313",
+      "U1032_Q1343",
+      "U1032_Q1228",
+      "U1032_Q1188",
+      "U1032_Q30201"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1032_5",
+    "user_id": "1032",
+    "layer": 1,
+    "title": "Polity Knowledge Assessment",
+    "content": "The user demonstrates a pattern of engaging with polity-related questions, showcasing both correct and incorrect responses. This indicates an active effort to assess and enhance their understanding of various legal and governmental topics. The user successfully answered questions about the Unlawful Activities Prevention Act, the National Crime Records Bureau, and the Special Marriage Act, while also encountering challenges with questions regarding The Protection of Plant Varieties and Farmers’ Rights Act and the Indian Coast Guard's role. This mix of correct and incorrect answers suggests that the user is in the process of mastering these concepts, reflecting a commitment to learning and self-evaluation in the field of polity.",
+    "source_instances": [
+      "U1032_Q227",
+      "U1032_Q33",
+      "U1032_Q10312",
+      "U1032_Q104",
+      "U1032_Q10323"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  }
+]

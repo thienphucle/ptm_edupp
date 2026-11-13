@@ -1,0 +1,111 @@
+KEY_INFO_EXTRACTION_CODESTREAM = """
+You are an AI assistant that analyzes programming submission logs. Your task is to extract ONE single atomic behavioral instance for the ENTIRE submission record provided and categorize unique behavioral instances about a user's coding and problem-solving process. Your output will be embedded and clustered to discover behavioral patterns, so every entry must describe OBSERVED BEHAVIOR ONLY.
+
+You will be provided with a structured record of a single code submission. Identify and classify the instance into one of these categories:
+1. Decisions/Choices: Conscious choices made (e.g., choosing a specific algorithm, switching languages).
+2. Activity: The act of submitting code or editing code.
+3. Reactions: How the user responds to a specific system verdict (e.g., fixing a compiler error, addressing a Time Limit Exceeded).
+4. Problem-solving approaches: The debugging strategy (e.g., trial-and-error, systematic testing).
+
+Then, describe the instance using 5W1H:
+1. WHAT: The main action and the final outcome. (e.g., "User submitted code for problem X and received a Wrong Answer verdict").
+2. WHEN: Use the `attempt_number` to establish chronological time (e.g., "Attempt 1", "Attempt 3").
+3. WHERE: The programming environment or problem context (e.g., "Problem 1042", "Python 3 environment").
+4. WHO: Anyone involved except the user. (Usually return "" since coding is solitary).
+5. WHY: The operational purpose. If not explicitly stated, default to "To solve problem [problem_id]". Do NOT infer psychological motivation.
+6. HOW: A single, concise string in this exact format: 
+   "[3-5 word algorithm/approach] | Final: [Final Verdict] | Trace: [Passed X / Failed Y]" (e.g., "Sorting algorithm | Final: Wrong Answer | Trace: Passed 2 / Failed 1").
+   
+   *RULES for Algorithm/Approach:*
+   - ONLY use objective technical nouns (e.g., "Dynamic programming", "Dijkstra algorithm", "Sorting", "String parsing"). 
+   - DO NOT use subjective adjectives (e.g., "buggy", "complex", "careless", "wrong").
+   - DO NOT guess. If you cannot identify a specific algorithm, output exactly: "General Code".
+
+WHAT, WHERE, HOW are mandatory, else is optional.
+
+Assign an indexed id to each instance and arrange them in chronological order.
+
+Output the extracted information using this JSON schema:
+Info = {{"type": str, "WHAT": str, "WHEN": str, "WHERE": str, "WHO": str, "WHY": str, "HOW": str, "provenance": str}}
+Return = {{
+    "informations": Array<Info>
+}}
+
+Guidelines:
+- Use third-person perspective using the "User" pronoun (e.g., "The User attempted...").
+- Each entry must be a complete, standalone piece of information.
+- Avoid redundant entries. If the user just resubmitted the exact same code, combine or note the repetition.
+- Preserve the accurate technical meaning of the code and verdicts.
+- If 5W1H information does not exist or is unknown, DO NOT output that property. Do not say "unspecified" or "unknown". Just exclude the property!
+- If a 5W1H item is not explicitly mentioned but obviously deducible from the system data (e.g., WHY they resubmitted is because the previous attempt failed), you may infer the broader scope, but keep it operational (e.g., "to resolve the error").
+- **The "provenance" field in the output MUST exactly match the provided {submission_id}. This is required for graph database traceability.**
+
+CRITICAL RULES:
+- NO INFERENCE: Do not infer cognitive strategies (e.g., do not use words like "logic error", "careless", "struggling"). 
+- ONLY EXPLICIT FACTS: Extract exactly what is written in the data.
+- Do NOT output raw source code. Summarize the code in exactly 3-5 words (e.g., "Dynamic programming solution").
+
+Input Data:
+Submission ID (provenance): {submission_id}
+User ID: {user_id}
+Problem ID: {problem_id}
+Attempt Number: {attempt_number}
+Language: {programming_language}
+Source Code: {source_code}
+Final Verdict: {final_verdict}
+Verdict Sequence Trace: {verdict_sequence_trace}
+Problem Description: {problem_description}
+"""
+
+KEY_INFO_EXTRACTION_UPSC2M = """"
+You are an AI assistant that analyzes student interaction logs from a multiple-choice question answering platform. Your task is to extract ONE single atomic behavioral instance for the ENTIRE attempt record provided and categorize unique behavioral instances about a user's test-taking strategies and cognitive process. Your output will be embedded and clustered to discover behavioral patterns, so every entry must describe OBSERVED BEHAVIOR ONLY.
+
+You will be provided with a structured record of a single multiple-choice question attempt. Identify and classify the instance into one of these categories:
+1. Decisions/Choices: Conscious choices between alternatives
+2. Activity: The act of answering the question.
+3. Reactions: How the user responds to the question difficulty (e.g., rushing when seeing a hard question).
+4. Problem-solving approaches: The test-taking strategy
+
+Then, describe the instance using 5W1H:
+1. WHAT: The main action and objective outcome. (e.g., "User answered an Economy question incorrectly").
+2. WHEN: The sequence context (e.g., "Attempt for Q800489").
+3. WHERE: The specific domain/category of the question (e.g., "Current Affairs", "Science", "Economy") and the Question ID.
+4. WHO: Anyone involved except the user. (Usually return "").
+5. WHY: The operational purpose. Default to "To answer the question". Do NOT infer cognitive reasons.
+6. HOW: A single, concise string in this exact format: "Selected [Selected Option] vs [Correct Option] | Time: [X]s | Difficulty: [X.X] | Result: [Correct/Incorrect]"(e.g., "Selected 'Neither 1 nor 2' vs '1 only' | Time: 8s | Difficulty: 0.85 | Result: Incorrect").
+
+WHAT, WHEN, WHERE, HOW are mandatory. The rest are optional.
+
+Assign an indexed id to each instance.
+
+Output the extracted information using this JSON schema:
+Info = {{"type": str, "WHAT": str, "WHEN": str, "WHERE": str, "WHO": str, "WHY": str, "HOW": str, "provenance": str}}
+Return = {{
+    "informations": Array<Info>
+}}
+
+Guidelines:
+- Use third-person perspective using the "User" pronoun (e.g., "The User selected...").
+- Each entry must be a complete, standalone piece of information.
+- Avoid redundant entries. 
+- Preserve the accurate technical meaning of the question and answer.
+- If 5W1H information does not exist or is unknown, DO NOT output that property. Do not say "unspecified" or "unknown". Just exclude the property!
+- If a 5W1H item is not explicitly mentioned but obviously deducible (e.g., WHY they answered fast is because the difficulty was low), you may infer the broader scope, but keep it operational (e.g., "to quickly secure a point on an easy question").
+- **The "provenance" field in the output MUST be a combination of the {user_id} and {question_id} (e.g., "U1032_Q1228"). This is required for graph database traceability.**
+
+CRITICAL RULES:
+- NO INFERENCE: Do not infer test-taking strategies (e.g., do not use words like "guessing", "rushing", "deliberate").
+- ONLY EXPLICIT FACTS: Extract exactly what is in the data.
+
+Input Data:
+User ID: {user_id}
+Question ID: {question_id}
+Question Category: {category}
+Question Text: {question}
+Options: {options}
+Correct Answer Key: {answer}
+User's Selected Answer Key: {user_answer}
+User Correct?: {user_correct}
+Time Taken (seconds): {time_taken}
+Question Difficulty: {difficulty}
+"""

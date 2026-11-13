@@ -1,0 +1,88 @@
+[
+  {
+    "node_id": "L1_1345_0",
+    "user_id": "1345",
+    "layer": 1,
+    "title": "Knowledge Gaps in Polity Questions",
+    "content": "The user demonstrates a recurring pattern of struggling with specific polity-related questions, often selecting incorrect answers due to misunderstandings or lack of knowledge about the topics. This pattern indicates that the user may have gaps in their understanding of key constitutional concepts and historical events, leading to incorrect responses in multiple instances. The user correctly answered one question but consistently failed to answer others, suggesting a need for further study and clarification on these subjects.",
+    "source_instances": [
+      "U1345_Q10417",
+      "U1345_Q395",
+      "U1345_Q227"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1345_1",
+    "user_id": "1345",
+    "layer": 1,
+    "title": "Errors in Current Affairs Understanding",
+    "content": "The user exhibits a pattern of making mistakes in current affairs questions, particularly in understanding sequences and relationships between concepts. This suggests that the user may not have a solid grasp of the material or may be misinterpreting the questions. The incorrect answers indicate a need for improvement in their comprehension of current affairs topics, which could benefit from additional review and practice.",
+    "source_instances": [
+      "U1345_Q80659"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1345_2",
+    "user_id": "1345",
+    "layer": 1,
+    "title": "Knowledge Gaps in Geography and Science",
+    "content": "The user exhibits a recurring pattern of struggling with questions related to geography and science, often answering incorrectly. This indicates a knowledge gap in these subjects, particularly in understanding complex concepts such as geological processes and specific scientific phenomena. While the user demonstrates some correct answers in environmental topics, the frequent mistakes in geography and science questions suggest that these areas require further study and comprehension. The user may benefit from targeted learning resources to bridge these knowledge gaps.",
+    "source_instances": [
+      "U1345_Q60041",
+      "U1345_Q80017",
+      "U1345_Q60257",
+      "U1345_Q1343"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1345_3",
+    "user_id": "1345",
+    "layer": 1,
+    "title": "Knowledge Gaps in Polity Understanding",
+    "content": "The user demonstrates a recurring pattern of misunderstanding key concepts in Indian polity, as evidenced by incorrect answers to questions regarding significant legislative frameworks and government structures. This suggests that the user may lack foundational knowledge or clarity on these topics, leading to confusion when distinguishing between similar concepts. The incorrect selections indicate a need for further study and comprehension of the features and responsibilities of various ministries and acts within the Indian political system.",
+    "source_instances": [
+      "U1345_Q435",
+      "U1345_Q10334"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1345_4",
+    "user_id": "1345",
+    "layer": 1,
+    "title": "Knowledge Gaps in Economic Topics",
+    "content": "The user demonstrates a recurring pattern of encountering knowledge gaps specifically in economic topics. While they correctly answer some questions, such as those related to Business Correspondents, they frequently struggle with questions about Forex Reserves, Bad Banks, and the REWARD Project, indicating a lack of understanding or familiarity with these subjects. This pattern suggests that the user may benefit from targeted learning or review in these areas to improve their overall knowledge and confidence in economic concepts.",
+    "source_instances": [
+      "U1345_Q50267",
+      "U1345_Q50086",
+      "U1345_Q50368",
+      "U1345_Q800489"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  },
+  {
+    "node_id": "L1_1345_5",
+    "user_id": "1345",
+    "layer": 1,
+    "title": "History Knowledge Assessment",
+    "content": "The user engages in answering history-related questions, demonstrating a mix of correct and incorrect responses. This pattern indicates an effort to assess and expand their knowledge of historical facts and events. The user shows confidence in some areas, as evidenced by correct answers regarding the National Archives of India and classical dance forms. However, there are also notable gaps in understanding, particularly concerning Barani's views and early archaeological sites in India, suggesting that the user is actively trying to fill these knowledge gaps through practice and assessment.",
+    "source_instances": [
+      "U1345_Q40106",
+      "U1345_Q40060",
+      "U1345_Q81354",
+      "U1345_Q40209",
+      "U1345_Q1188",
+      "U1345_Q2153"
+    ],
+    "source_nodes": [],
+    "generating_dimension": null
+  }
+]
